@@ -3,12 +3,14 @@
 AVAILABLE COMMANDS
 
 Application Command
+
         album: Return photos by album Id
         dump: Return all photos
         photo: Return by photo Id
         return: Return all photos or filter
 
 Built-In Commands
+
         clear: Clear the shell screen.
         exit, quit: Exit the shell.
         help: Display help about available commands.
@@ -16,6 +18,7 @@ Built-In Commands
         stacktrace: Display the full stacktrace of the last error.
 
 Examples Shell Commands
+
         shell:>album 1
         shell:>photo 50
         shell:>photo --id 50
